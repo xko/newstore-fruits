@@ -1,4 +1,4 @@
-name := "elevators"
+name := "newstore-fruits"
 version := "0.1"
 
 scalaVersion := "2.13.4"
